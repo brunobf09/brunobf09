@@ -1,13 +1,14 @@
 [![author](https://img.shields.io/badge/author-brunobf09-red.svg)]
 
 <p align="center">
-  <img src="banner.png" >
+  <img src="banner.jpg" >
 </p>
 
 # Bruno Brasil
-<sub>*Pilot* at Brazilian Air Force Center</sub>
+<sub>Pilot at Brazilian Air Force Center</sub>
 
-Working from Air force and improving new skills through  Data Science.
+
+Working from Air force and improving new skills through the Data Science.
 
 **Background in:** Python, Business Intelligence, Data Analysis.
 
