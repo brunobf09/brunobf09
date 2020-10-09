@@ -1,16 +1,21 @@
-### Hi there 👋
+[![author](https://img.shields.io/badge/author-brunobf09-red.svg)]
 
-<!--
-**brunobf09/brunobf09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="banner.png" >
+</p>
 
-Here are some ideas to get you started:
+# Bruno Brasil
+<sub>*Pilot* at Brazilian Air Force Center</sub>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Working from Air force and improving new skills through  Data Science.
+
+**Background in:** Python, Business Intelligence, Data Analysis.
+
+**Links:**
+* [LinkedIn](https://www.linkedin.com/in/bruno-brasil-8a34101b6/)
+* [Medium](https://medium.com/@brunobf09)
+
+
+## Projetos:
+
+* **Análise da Conjuntura do COVID-19 na cidade de Manaus:** https://github.com/brunobf09/COVID-19-Manaus/blob/main/%5BARTIGO%5D_COVID_Manaus.ipynb
