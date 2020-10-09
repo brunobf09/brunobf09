@@ -1,11 +1,11 @@
 ![Author](https://img.shields.io/badge/author-Bruno_Brasil-red.svg)
 
 <p align="center">
-  <img width="700" src="banner.png" >
+  <img width="800" src="banner.png" >
 </p>
 
 # Bruno Brasil
-<sub>Pilot at Brazilian Air Force Center</sub>
+<sub>Pilot at Brazilian Air Force</sub>
 
 
 Working from Brazilian Air Force and improving new skills through the Data Science.
