@@ -1,4 +1,4 @@
-![Author](https://img.shields.io/badge/author-Bruno_Brasil-red.svg)
+!(https://img.shields.io/badge/author-Bruno_Brasil-red.svg)
 
 <p align="center">
   <img width="800" src="banner.png" >
