@@ -19,4 +19,4 @@ Working from Air force and improving new skills through the Data Science.
 
 ## Projetos:
 
-* **Análise da Conjuntura do COVID-19 na cidade de Manaus:** https://github.com/brunobf09/COVID-19-Manaus/blob/main/%5BARTIGO%5D_COVID_Manaus.ipynb
+* [**Análise da Conjuntura do COVID-19 na cidade de Manaus:**] (https://github.com/brunobf09/COVID-19-Manaus/blob/main/%5BARTIGO%5D_COVID_Manaus.ipynb)
