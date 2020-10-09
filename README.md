@@ -1,7 +1,7 @@
 ![Author](https://img.shields.io/badge/author-Bruno_Brasil-red.svg)
 
 <p align="center">
-  <img width="100" src="banner.png" >
+  <img width="500" src="banner.png" >
 </p>
 
 # Bruno Brasil
