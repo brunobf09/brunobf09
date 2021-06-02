@@ -10,7 +10,7 @@
 
 Working at Brazilian Air Force and improving new skills through the Data Science.
 
-**Background in:** Python, Business Intelligence, Data Analysis, Machine Learning.
+**Background in:** Python, Automation, Business Intelligence, Data Analysis, Machine Learning.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/bruno-brasil-8a34101b6/)
