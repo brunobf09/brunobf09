@@ -8,7 +8,7 @@
 <sub>Pilot at Brazilian Air Force</sub>
 
 
-Working from Brazilian Air Force and improving new skills through the Data Science.
+Working at Brazilian Air Force and improving new skills through the Data Science.
 
 **Background in:** Python, Business Intelligence, Data Analysis, Machine Learning.
 
