@@ -11,7 +11,7 @@
 Working at Brazilian Air Force as Airlift Pilot and Operations Analyst. 
 Interested in solving complex problems throughout Operation Research Methodology.
 
-**Background in:** Python, Automation, Data Analysis and Machine Learning.
+**Background in:** Python, Operations Research, Data Analysis and Machine Learning.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/bruno-brasil-8a34101b6/)
