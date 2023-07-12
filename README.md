@@ -27,3 +27,4 @@ Interested in solving complex problems throughout Operation Research Methodology
 * **[Churn Prediction](https://github.com/brunobf09/Churn-Prediction-para-uma-empresa-de-Telecomunica-es/blob/118d24cc36a09faa1cef36fecc8fe9ff632c32e6/%5BPROJETO%5D_Churn_Prediction_para_uma_empresa_de_Telecomunica%C3%A7%C3%B5es.ipynb)**
 * **[ML na Guerra Moderna](https://github.com/brunobf09/Machine-Learning-na-Guerra-Moderna/blob/main/%5BARTIGO%5D_ML_na_Guerra_Moderna.ipynb)**
 * **[Clustering como ferramenta de otimização aplicada à Ação de Ressuprimento Aéreo](https://github.com/brunobf09/Clustering-como-ferramenta-de-otimiza-o-aplicada-A-o-de-Ressuprimento-A-reo/blob/main/%5BARTIGO%5DClustering_como_ferramenta_de_otimiza%C3%A7%C3%A3o_aplicada_%C3%A0_A%C3%A7%C3%A3o_de_Ressuprimento_A%C3%A9reo.ipynb)**
+* **[Web Scraping + Google Flights](https://github.com/brunobf09/Google_Flight/blob/main/%5BARTIGO%5D_Google_Flight.ipynb)**
